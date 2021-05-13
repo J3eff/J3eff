@@ -1,7 +1,43 @@
-### Hi there 👋
+
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" min-width="400px" max-width="400px" width="400px" align="right">
+
+<p align="left">
+  Olá <img src="https://media.giphy.com/media/3og0IAzB7lmOo2q0Ss/giphy.gif" height="30px width="30px" ><br>
+  
+  Meu nome é Jefferson 😏
+  
+  Estou em busca de uma oportunidade como Desenvolvedor .NET, onde eu possa aplicar todo meu conhecimento. tenho facilidade em aprender e gosto de trabalhar em equipe, procuro sempre estudar e buscar por novas tecnologias nas minhas horas vagas.
+  
+  Estou disponível para conversas e trabalhos, caso precise, fique à vontade para entrar em contato comigo.
+  
+  
+</p>
+
+<p align="left">
+  💬 Skills: <br>
+      &nbsp;&nbsp; :arrow_forward:	Tecnologias: <strong>C#, ASP.NET Core MVC/WebAPI, EF Core, HTML5, CSS3</strong> <br>      
+      &nbsp;&nbsp; :arrow_forward:	Banco de dados: <strong>MySQL e SqlServer</strong> <br>
+      &nbsp;&nbsp; :arrow_forward:	Ferramentas:   <strong>Git </strong> <br>
+</p>
+
+<p align="left">
+  💬 Aprendendo: <strong>REST com ASP.NET Core WebAPI</strong>
+</p>
+
+<p align="left">
+  💬 Interesse em aprender: <strong>JavaScript</strong>
+</p>
+
+<p align="left">
+    Se você quiser fazer um projeto comigo ou bater um papo, não hesite em me enviar uma mensagem::⤵️
+</p>
+  
+  <a href="https://www.linkedin.com/in/j3eff/" alt="Linkedin" target="_blank">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-soaress/"/></a>
+</p> 
 
 <!--
-**J3eff/J3eff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**DanielSoaress/DanielSoaress** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
