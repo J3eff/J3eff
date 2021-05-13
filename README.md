@@ -2,11 +2,9 @@
 <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left">
-  Olá <img src="https://media.giphy.com/media/3og0IAzB7lmOo2q0Ss/giphy.gif" height="30px width="30px" ><br>
-  
-  Meu nome é Jefferson 😏
-  
-  Estou em busca de uma oportunidade como Desenvolvedor .NET, onde eu possa aplicar todo meu conhecimento. tenho facilidade em aprender e gosto de trabalhar em equipe, procuro sempre estudar e buscar por novas tecnologias nas minhas horas vagas.
+  <img src="https://media.giphy.com/media/3og0IAzB7lmOo2q0Ss/giphy.gif" height="30px width="30px" >  
+  Olá, meu nome é Jefferson 😏<br>
+  Estou em busca de uma oportunidade como desenvolvedor .NET, onde eu possa aplicar todo meu conhecimento. tenho facilidade em aprender e gosto de trabalhar em equipe, procuro sempre estudar e buscar por novas tecnologias nas minhas horas vagas.
   
   Estou disponível para conversas e trabalhos, caso precise, fique à vontade para entrar em contato comigo.
   
