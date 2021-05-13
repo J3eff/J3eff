@@ -23,7 +23,7 @@
 </p>
 
 <p align="left">
-  💬 Interesse em aprender: <strong>JavaScript</strong>
+  💬 Interesse em aprender: <strong>JavaScript, DDD, CQRS, Event Sourcing, Filas e SPA com Angular, </strong>
 </p>
 
 <p align="left">
