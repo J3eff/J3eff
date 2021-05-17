@@ -5,19 +5,13 @@
 
 <p align="left">
   <img src="https://media.giphy.com/media/3og0IAzB7lmOo2q0Ss/giphy.gif" height="30px width="30px" >  
-  Olá, meu nome é Jefferson 😏<br>
-  Estou em busca de uma oportunidade como desenvolvedor .NET, onde eu possa aplicar todo meu conhecimento. tenho facilidade em aprender e gosto de trabalhar em equipe, procuro sempre estudar e buscar por novas tecnologias nas minhas horas vagas.
-  
-  Estou disponível para conversas e trabalhos, caso precise, fique à vontade para entrar em contato comigo.
-  
-  
+  Olá, meu nome é Jefferson Brandão, estou em busca de uma oportunidade como desenvolvedor .NET   
 </p>
 
 <p align="left">
   💬 Skills: <br>
-      &nbsp;&nbsp; :arrow_forward:	Tecnologias: <strong>C#, ASP.NET Core MVC/WebAPI, EF Core, HTML5, CSS3</strong> <br>      
-      &nbsp;&nbsp; :arrow_forward:	Banco de dados: <strong>MySQL e SqlServer</strong> <br>
-      &nbsp;&nbsp; :arrow_forward:	Ferramentas:   <strong>Git </strong> <br>
+      &nbsp;&nbsp; :arrow_forward:	 Habilidades: <strong>C#, ASP.NET Core MVC/WebAPI, EF Core, HTML5, CSS3, MySQL e SqlServer</strong> <br>
+      &nbsp;&nbsp;  💼	Ferramentas:   <strong> VS,VSCode,Git e Github</strong> <br>
 </p>
 
 <p align="left">
@@ -29,7 +23,7 @@
 </p>
 
 <p align="left">
-    Se você quiser fazer um projeto comigo ou bater um papo, não hesite em me enviar uma mensagem::⤵️
+   💌 Se você quiser fazer um projeto comigo ou bater um papo, não hesite em me enviar uma mensagem::⤵️
 </p>
   
   <a href="https://www.linkedin.com/in/j3eff/" alt="Linkedin" target="_blank">
