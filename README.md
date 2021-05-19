@@ -9,7 +9,7 @@
 </p>
 
 <p align="left">
-      &nbsp;&nbsp; :arrow_forward:	 Habilidades: <strong>C#, ASP.NET Core MVC/WebAPI, EF Core, HTML5, CSS3, MySQL e SqlServer</strong> <br>
+      &nbsp;&nbsp; :arrow_forward:	 Skills: <strong>C#, ASP.NET Core MVC/WebAPI, EF Core, HTML5, CSS3, MySQL e SqlServer</strong> <br>
       &nbsp;&nbsp;  💼	Ferramentas:   <strong> VS,VSCode,Git e Github</strong> <br>
 </p>
 
