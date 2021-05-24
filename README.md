@@ -1,8 +1,6 @@
 
 <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" min-width="400px" max-width="400px" width="400px" align="right">
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=J3eff" alt="jeffdev" align="left"/> </p><br>
-
 <p align="left">
   <img src="https://media.giphy.com/media/3og0IAzB7lmOo2q0Ss/giphy.gif" height="30px width="30px" >  
   Olá, meu nome é Jefferson Brandão, estou em busca de uma oportunidade como desenvolvedor .NET   
