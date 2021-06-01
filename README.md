@@ -7,8 +7,8 @@
 </p>
 
 <p align="left">
-      &nbsp;&nbsp; :arrow_forward:	 Skills: <strong>C#, ASP.NET Core MVC/WebAPI, EF Core, HTML, CSS, MySQL e SqlServer</strong> <br>
-      &nbsp;&nbsp;  💼	Ferramentas:   <strong> VS,VSCode,Git e Github</strong> <br>
+      &nbsp;&nbsp; :arrow_forward:	 Skills: <strong>C#, ASP.NET Core MVC/WebAPI, EF Core, Identity, HTML, CSS, MySQL e SqlServer</strong> <br>
+      &nbsp;&nbsp;  💼	Ferramentas:   <strong> Visual Studio e Git </strong> <br>
 </p>
 
 <p align="left">
@@ -16,7 +16,7 @@
 </p>
 
 <p align="left">
-  💬 Interesse em aprender: <strong>JavaScript, DDD, CQRS, Event Sourcing, Filas e SPA com Angular, </strong>
+  💬 Interesse em aprender: <strong>JavaScript, DDD, CQRS, Event Sourcing e SPA com Angular </strong>
 </p>
 
 <p align="left">
