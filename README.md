@@ -3,7 +3,7 @@
 
 <p align="left">
   <img src="https://media.giphy.com/media/3og0IAzB7lmOo2q0Ss/giphy.gif" height="30px width="30px" >  
-  Olá, meu nome é Jefferson Brandão, estou em busca de uma oportunidade como desenvolvedor .NET   
+  Olá, meu nome é Jefferson Brandão, atualmente trabalho como desenvolvedor .NET Junior na ExpenseOn   
 </p>
 
 <p align="left">
