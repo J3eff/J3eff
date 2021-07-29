@@ -7,17 +7,10 @@
 </p>
 
 <p align="left">
-      &nbsp;&nbsp; :arrow_forward:	 Skills: <strong>C#, ASP.NET Core MVC/WebAPI, EF Core, Identity, HTML, CSS, JavaScript, ReactJs, MySQL e SqlServer</strong> <br>
+      &nbsp;&nbsp; :arrow_forward:	 Skills: <strong> C#, ASP.NET Core MVC/WebAPI, EF Core, MySQL, SqlServer, HTML, CSS, JavaScript e ReactJs</strong> <br>
       &nbsp;&nbsp;  💼	Ferramentas:   <strong> Visual Studio e Git </strong> <br>
 </p>
 
-<p align="left">
-  💬 Aprendendo: <strong>REST com ASP.NET Core WebAPI</strong>
-</p>
-
-<p align="left">
-  💬 Interesse em aprender: <strong>JavaScript, DDD, CQRS, Event Sourcing e SPA com Angular </strong>
-</p>
 
 <p align="left">
    💌 Se você quiser fazer um projeto comigo ou bater um papo, não hesite em me enviar uma mensagem:⤵️
