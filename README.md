@@ -19,17 +19,12 @@
   <a href="https://www.linkedin.com/in/j3eff/" alt="Linkedin" target="_blank">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/j3eff/" target="_blank"/></a>
 </p> 
-
-<a href="https://github.com/J3eff">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J3eff&&langs_count=3&theme=tokyonight&hide_langs_below=1" />
-</a>
-
-<a href="https://github.com/J3eff">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=J3eff&show_icons=true&theme=tokyonight&line_height=27" alt="Shubhamdeep's github stats"/>
-</a>
-
+<div align="center">
+                   
 [![JeffDev's github stats](https://github-readme-stats.vercel.app/api?username=J3eff&show_icons=true&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=J3eff&layout=compact&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats)                                                                                                                                                      
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=J3eff&layout=compact&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats)    
+                   
+</div>
                                                                                                                                                      
 <!--
 **DanielSoaress/DanielSoaress** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
