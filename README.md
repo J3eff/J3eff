@@ -28,6 +28,9 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=J3eff&show_icons=true&theme=tokyonight&line_height=27" alt="Shubhamdeep's github stats"/>
 </a>
 
+[![JeffDev's github stats](https://github-readme-stats.vercel.app/api?username=J3eff&show_icons=true&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=J3eff&layout=compact&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats)                                                                                                                                                      
+                                                                                                                                                     
 <!--
 **DanielSoaress/DanielSoaress** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
