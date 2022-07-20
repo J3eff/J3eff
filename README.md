@@ -1,13 +1,10 @@
-
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" min-width="400px" max-width="400px" width="400px" align="right">
-
 <p align="left">
   <img src="https://media.giphy.com/media/3og0IAzB7lmOo2q0Ss/giphy.gif" height="30px width="30px" >  
-  Olá, meu nome é Jefferson Brandão, atualmente trabalho como desenvolvedor .NET Junior na ExpenseOn   
+  Olá, meu nome é Jefferson Brandão, atualmente trabalho como Engenheiro de Software Pleno na Flash Beneficios 
 </p>
 
 <p align="left">
-      &nbsp;&nbsp; :arrow_forward:	 Skills: <strong> C#, ASP.NET Core MVC/WebAPI, EF Core, MySQL, SqlServer, HTML, CSS, JavaScript e ReactJs</strong> <br>
+      &nbsp;&nbsp; :arrow_forward:	 Skills: <strong> C#, ASP.NET Core MVC/WebAPI, EF Core, MySQL, SqlServer, HTML, CSS, JavaScript, ReactJs, NodeJs e NestJs </strong> <br>
       &nbsp;&nbsp;  💼	Ferramentas:   <strong> Visual Studio, VSCode e Git </strong> <br>
 </p>
 
@@ -25,18 +22,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=J3eff&layout=compact&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats)    
                    
 </div>
-                                                                                                                                                     
-<!--
-**DanielSoaress/DanielSoaress** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...hh
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
