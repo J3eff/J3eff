@@ -4,7 +4,7 @@
 </p>
 
 <p align="left">
-      &nbsp;&nbsp; :arrow_forward:	 Skills: <strong> C#, ASP.NET Core MVC/WebAPI, EF Core, MySQL, SqlServer, HTML, CSS, JavaScript, ReactJs e NodeJs</strong> <br>     
+      &nbsp;&nbsp; :arrow_forward:	 Skills: <strong> C#, ASP.NET Core MVC/WebAPI, .Net Core, .Net Framework, EF Core, MySQL, SqlServer, HTML, CSS, JavaScript, ReactJs, NodeJs e NestJs</strong> <br>     
       &nbsp;&nbsp;  💼	Ferramentas:   <strong> Visual Studio, VSCode e Git </strong> <br>
 </p>
 
