@@ -38,8 +38,7 @@ Aqui vão alguns repositórios que mostram mais do que gosto de fazer:
 - **course-nodejs-zero-to-mastery** — curso prático de Node.js com projetos reais  
 - **course-web-api-net-core** — aprendizado de API com .NET Core  
 - **xadrez-console** — implementação de jogo de xadrez no console (prática de OOP)  
-- **homework-heranca-polimorfismo**, **homework-abstract-classes-methods** — exercícios de conceitos de orientação a objetos em C#  
-- (Você pode destacar outros projetos seus mais relevantes com descrição breve)
+- **homework-heranca-polimorfismo**, **homework-abstract-classes-methods** — exercícios de conceitos de orientação a objetos em C#
 
 ---
 
