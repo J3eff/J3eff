@@ -51,9 +51,10 @@ Aqui vão alguns repositórios que mostram mais do que gosto de fazer:
 
 ## 📊 Estatísticas do GitHub
 
-![Jefferson's GitHub stats](https://github-readme-stats.vercel.app/api?username=J3eff&show_icons=true&theme=dracula)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=J3eff&layout=compact&theme=dracula)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=J3eff&show_icons=true&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J3eff&layout=compact&theme=dracula"/>
+</p>
 
 ---
 
