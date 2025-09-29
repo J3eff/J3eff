@@ -22,8 +22,8 @@ Aqui estão algumas das stacks / ferramentas com que mais trabalho ou que me int
 
 | Categoria | Tecnologias |
 |-----------|-------------|
-| Linguagens | JavaScript, TypeScript, C#, Python |
-| Backend | Node.js, Express, .NET Core, ASP.NET |
+| Linguagens | JavaScript, TypeScript, C# |
+| Backend | Node.js, Express, .NET Core, ASP.NET, .NET Framework |
 | Frontend | React, HTML, CSS |
 | Bancos de Dados | SQL Server, PostgreSQL, MySQL, MongoDB |
 | DevOps & Ferramentas | Docker, Git/GitHub, CI/CD |
@@ -41,12 +41,6 @@ Aqui vão alguns repositórios que mostram mais do que gosto de fazer:
 - **homework-heranca-polimorfismo**, **homework-abstract-classes-methods** — exercícios de conceitos de orientação a objetos em C#
 
 ---
-
-## ✨ Conquistas & Méritos
-
-- Tenho **63 repositórios públicos** e alguns projetos pessoais no GitHub.
-- Trabalho atual: **Engenheiro de Software Pleno na Flash Benefícios**.
-- Foco em crescimento técnico contínuo e participação em projetos de maior escala.
 
 ## 📊 Estatísticas do GitHub
 
