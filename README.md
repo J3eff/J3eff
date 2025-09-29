@@ -43,11 +43,17 @@ Aqui vão alguns repositórios que mostram mais do que gosto de fazer:
 
 ---
 
-## ✨ Conquistas & méritos
+## ✨ Conquistas & Méritos
 
-- Tenho **63 repositórios públicos** e já acumulei algumas estrelas no GitHub :contentReference[oaicite:0]{index=0}  
-- Trabalho atual: Engenheiro de Software Pleno na Flash Benefícios (no seu repositório aparece essa informação) :contentReference[oaicite:1]{index=1}  
-- Foco em crescimento técnico contínuo e participação em projetos de maior escala
+- Tenho **63 repositórios públicos** e alguns projetos pessoais no GitHub.
+- Trabalho atual: **Engenheiro de Software Pleno na Flash Benefícios**.
+- Foco em crescimento técnico contínuo e participação em projetos de maior escala.
+
+## 📊 Estatísticas do GitHub
+
+![Jefferson's GitHub stats](https://github-readme-stats.vercel.app/api?username=J3eff&show_icons=true&theme=dracula)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=J3eff&layout=compact&theme=dracula)
 
 ---
 
@@ -59,4 +65,4 @@ Se quiser bater um papo, tirar dúvidas, propor projetos ou colaboração, estou
 
 ---
 
-> “Coffee my live…” ☕ — uma pequena brincadeira (ou lema do dia a dia) no meu perfil  
+> “Coffee my live…” ☕
