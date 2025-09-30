@@ -29,19 +29,6 @@ Aqui estão algumas das stacks / ferramentas com que mais trabalho ou que me int
 | DevOps & Ferramentas | Docker, Git/GitHub, CI/CD |
 | Outros | Arquitetura de APIs REST, Clean Code, SOLID, Testes (unitários e integração) |
 
----
-
-## 📂 Alguns projetos legais
-
-Aqui vão alguns repositórios que mostram mais do que gosto de fazer:
-
-- **course-nodejs-zero-to-mastery** — curso prático de Node.js com projetos reais  
-- **course-web-api-net-core** — aprendizado de API com .NET Core  
-- **xadrez-console** — implementação de jogo de xadrez no console (prática de OOP)  
-- **homework-heranca-polimorfismo**, **homework-abstract-classes-methods** — exercícios de conceitos de orientação a objetos em C#
-
----
-
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
