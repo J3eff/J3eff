@@ -11,9 +11,8 @@ Sou apaixonado por resolver problemas por meio de código, aprender novas tecnol
 
 - Tenho experiência profissional focada em desenvolvimento de software, com ênfase em backend, APIs, arquitetura e projetos full-stack.  
 - Tenho interesse e prática com boas práticas, testes, escalabilidade e performance.  
-- Gosto de me desafiar aprendendo novas linguagens, frameworks e maneiras melhores de estruturar sistemas.  
-- Busco colaborar com projetos de código aberto, contribuir com comunidades e trocar conhecimento.
-
+- Gosto de me desafiar aprendendo novas linguagens, frameworks e maneiras melhores de estruturar sistemas.
+  
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
